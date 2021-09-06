@@ -1,4 +1,4 @@
-# UMN-Algorithm-Study
+# UMN 알고리즘 취뽀 스터디
 
 👨‍👩‍👧‍👦참여자 <br>
 신예은 <br>
