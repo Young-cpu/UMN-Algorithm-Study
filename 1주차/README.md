@@ -3,7 +3,7 @@
 | 참여자 | 시간 |  |
 |--|--|--|
 | [신예은](https://github.com/Raynishin) | [시간] |  |
-| [이태주](https://github.com/TaeJu)  | 2ms |  |
+| [이태주](https://github.com/TaeJu)  | 2ms | 👍 |
 | [장호인](https://github.com/hoin0784) | [시간] |  |
 | [정지호](https://github.com/JihoJeong)  | [시간] |  |
 | [정영현](https://github.com/Young-cpu)  | 4ms |  |
