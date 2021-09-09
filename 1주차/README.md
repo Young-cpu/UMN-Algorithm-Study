@@ -33,4 +33,4 @@
 | [이태주](https://github.com/TaeJu)  | [시간] |  |
 | [장호인](https://github.com/hoin0784) | [시간] |  |
 | [정지호](https://github.com/JihoJeong)  | [시간] |  |
-| [정영현](https://github.com/Young-cpu)  | [시간] |  |
+| [정영현](https://github.com/Young-cpu)  | 0ms |  |
