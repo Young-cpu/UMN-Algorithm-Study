@@ -12,7 +12,7 @@
 | 참여자 | 시간 |  |
 |--|--|--|
 | [신예은](https://github.com/Young-cpu) | [시간] |  |
-| [이태주](https://github.com/Young-cpu)  | [시간] |  |
+| [이태주](https://github.com/Young-cpu)  | [2ms] |  |
 | [장호인](https://github.com/Young-cpu) | [시간] |  |
 | [정지호](https://github.com/Young-cpu)  | [시간] |  |
 | [정영현](https://github.com/Young-cpu)  | [시간] |  |
@@ -30,7 +30,7 @@
 | 참여자 | 시간 |  |
 |--|--|--|
 | [신예은](https://github.com/Young-cpu) | [시간] |  |
-| [이태주](https://github.com/Young-cpu)  | [시간] |  |
+| [이태주](https://github.com/Young-cpu)  | [0ms] |  |
 | [장호인](https://github.com/Young-cpu) | [시간] |  |
 | [정지호](https://github.com/Young-cpu)  | [시간] |  |
 | [정영현](https://github.com/Young-cpu)  | [시간] |  |
