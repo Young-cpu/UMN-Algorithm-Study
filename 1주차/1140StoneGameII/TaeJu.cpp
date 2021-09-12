@@ -1,4 +1,5 @@
 class Solution {
+    // https://www.youtube.com/watch?v=6hu5G-abkdg&t=304s&ab_channel=LeadCodingbyFRAZ    <----- 이사람코드인데 정답을 봐도 모르겠네요 ㅋㅋ 일단 저는 못풀었습니다
     int[][] dp = new int [101][201];
     public int helper(int index, int M, int[] piles) {
         if(index >= piles.length) {
