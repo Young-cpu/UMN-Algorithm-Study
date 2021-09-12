@@ -18,7 +18,7 @@
 |--|--|--|
 | [이태주](https://github.com/TaeJu)  | [11ms] |  |
 | [정지호](https://github.com/JihoJeong)  | [시간] |  |
-| [정영현](https://github.com/Young-cpu)  | [시간] |  |
+| [정영현](https://github.com/Young-cpu)  | 78 ms |  |
 
 ### 1641. Count Sorted Vowel Strings
 | 참여자 | 시간 |  |
