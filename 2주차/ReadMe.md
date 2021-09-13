@@ -1,4 +1,4 @@
-# 2주차  
+# 2주차  - Greedy Algorithm
 ### 561. Array Partition I
 | 참여자 | 시간 |  |
 |--|--|--|
