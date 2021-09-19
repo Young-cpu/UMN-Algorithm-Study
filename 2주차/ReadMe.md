@@ -25,9 +25,5 @@
 |--|--|--|
 <<<<<<< HEAD
 | [이태주](https://github.com/TaeJu)  | 7ms |  |
-| [정영현](https://github.com/Young-cpu)  | 시간 |  |
-=======
-| [이태주](https://github.com/TaeJu)  | 시간 |  |
 | [정영현](https://github.com/Young-cpu)  | 	8 ms | 👍 |
->>>>>>> 4cc5b25a51f202167434255ceb950e38113055d8
 | [정현욱](https://github.com/hyunukjeong)  | 시간 |  |
