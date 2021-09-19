@@ -2,8 +2,8 @@
 ### 561. Array Partition I
 | 참여자 | 시간 |  |
 |--|--|--|
-| [이태주](https://github.com/TaeJu)  | 11ms | |
-| [정영현](https://github.com/Young-cpu)  | 44ms | 👍 |
+| [이태주](https://github.com/TaeJu)  | 11ms | 👍 |
+| [정영현](https://github.com/Young-cpu)  | 44ms |  |
 | [정현욱](https://github.com/hyunukjeong)  | 시간 |  |
 
 ### 763. Partition Labels
@@ -23,6 +23,6 @@
 ### 1827. Minimum Operations to Make the Array Increasing
 | 참여자 | 시간 |  |
 |--|--|--|
-| [이태주](https://github.com/TaeJu)  | 7ms |  |
-| [정영현](https://github.com/Young-cpu)  | 	8 ms | 👍 |
+| [이태주](https://github.com/TaeJu)  | 7ms | 👍 |
+| [정영현](https://github.com/Young-cpu)  | 	8 ms |  |
 | [정현욱](https://github.com/hyunukjeong)  | 시간 |  |
