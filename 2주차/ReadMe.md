@@ -24,5 +24,5 @@
 | 참여자 | 시간 |  |
 |--|--|--|
 | [이태주](https://github.com/TaeJu)  | 7ms |  |
-| [정영현](https://github.com/Young-cpu)  | 	8 ms | 👍 |
+| [정영현](https://github.com/Young-cpu)  | 시간 |  |
 | [정현욱](https://github.com/hyunukjeong)  | 시간 |  |
